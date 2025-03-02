@@ -32,12 +32,12 @@
     <repository>
         <id>central</id>
         <name>ip-10-1-1-151-releases</name>
-        <url>http://jfrog.dineshdni.xyz:8081/artifactory/libs-release</url>
+        <url>http://jfrog.dineshdni.xyz:8081/artifactory/libs-release-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-10-1-1-151-releases</name>
-        <url>http://jfrog.dineshdni.xyz:8081/artifactory/libs-snapshot</url>
+        <url>http://jfrog.dineshdni.xyz:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
   </distributionManagement>
 
