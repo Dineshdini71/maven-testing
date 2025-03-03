@@ -34,7 +34,6 @@
         <name>ip-10-1-1-36-releases</name>
         <url>jfrog.dineshdni.xyz:8081/artifactory/libs-release</url>
     </repository>
-    </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-10-1-1-36-snapshots</name>
